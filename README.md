@@ -76,7 +76,7 @@ You Can **[Click Here](https://github.com/TOXIC-DEVIL/WhatsAlexa/archive/refs/he
 
 There are **3 Languages** in this Bot - **English ( US ), Malayalam ( India ), Indonasian ( Indonasia ).** You can choose the language, **Its up to you.**
 
-### ❗ Does our number will banned from WhatsApp by Using This Bot?
+### ❗  will I get banned from WhatsApp by Using This Bot?
 
 If you are concerned about that, Then you can just use bot on a [Fake Number](https://youtu.be/v8lGcQp0RjQ). **[Also Read This](https://github.com/TOXIC-DEVIL/WhatsAlexa#-warnings--disclaimers-)**
 
